@@ -3,7 +3,7 @@
 # ¡Hola! Soy Frank Mesa 👋
 ### Desarrollador Fullstack · Barcelona, España 🇪🇸
 
-*Dormir 8 horas o programar?*
+*Lo que vale la pena hacer, vale la pena hacerlo bien.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-frankxhunter.vercel.app-4f46e5?style=for-the-badge)](https://portafolio-frankxhunter.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank_Mesa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-mesa-dom%C3%ADnguez-2ab475251)
@@ -93,7 +93,7 @@ Mi formación combina bases sólidas en Ingeniería Informática en la **CUJAE**
 
 <div align="center">
 
-*"El código que no escribe nadie, lo escribo yo a las 2am."*
+*"Hasta que esté bien hecho."*
 
 ⭐ Si te ha gustado lo que hago, déjame una estrella — es gratis y me alegra el día.
 
