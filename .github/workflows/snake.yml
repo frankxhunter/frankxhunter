@@ -18,4 +18,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dot=#bfd6f6=#8dbdff=#64a1f4
+            dist/ocean.gif?color_snake=orange&color_dot=#bfd6f6=#8dbdff=#64a1f4=#4b91f1=#3c7dd9
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
